@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JAVASCRIPT, NODE, REACT
-- Trying to improve my development abilities 
+- I'm currently a front-end developer
+- I'm proficient at TypeScript, JavaScript, HTML, CSS, React.js and Next.js
